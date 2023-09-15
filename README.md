@@ -22,6 +22,8 @@ Created a bubble chart that displays each sample that is chosen from the dropdow
 
     "https://plotly.com/javascript/bubble-charts/"
 
+app.js file in the static folder
+
 I have chosen not to complete the gauge chart for the assignment but will do so at leisure once it is marked.
 
 
